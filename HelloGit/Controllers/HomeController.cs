@@ -26,7 +26,7 @@ namespace HelloGit.Controllers
 
         public void fooBar()
         {
-            Response.Write("Awesome!!!");
+            Response.Write("<h1>Awesome!!!<h1>");
         }
     }
 }
