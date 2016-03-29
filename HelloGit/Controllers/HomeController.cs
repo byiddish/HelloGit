@@ -18,5 +18,10 @@ namespace HelloGit.Controllers
         {
             Response.Write("<h1>Foo!!!<h1>");
         }
+
+        public void bar()
+        {
+            Response.Write("Hello!!!");
+        }
     }
 }
